@@ -6,6 +6,15 @@
 
 Built for the InnovateLA Dual-Use Hackathon (USC, Oct 16 to 18, 2026), Energy & Grid Hardening lens with Base Power. We are a startup that owns and runs a fleet of Base batteries (Base Core: 39.2 kWh, 20 kW). The seat is our fleet's dispatcher.
 
+## Team and how it was built
+
+A team of four at the InnovateLA Dual-Use Hackathon (USC, October 16 to 18, 2026). Each member describes their own part here; add a line if yours is missing.
+
+- **Omer Bese**, energy systems engineer: problem choice (wildfire shutoffs rather than storms), the medical-first risk ladder, the neighborhood-island concept, the series-switch analysis that picked RAR8848 as the pilot, the SCE, CEC and CAISO data, the pilot's business rules (free Base Cores for volunteer homes, the subscription, shutoff pricing, the host's 20 percent), the "startup running Base hardware" framing, and direction of the build.
+- **Enqi Wang**: naming and interface.
+
+The code was written with Claude Code, which is why the commits are authored "Claude"; the design decisions were made in the sessions that directed it. `DECISIONS.md` lists the product decisions in order with the team member who made the call.
+
 PowerUP has three parts that share one ladder, the one the hackathon prompt asks for: *watch, ask, slow, hold, hand to a person*.
 
 | Part | The disaster | What it does | Ladder |
