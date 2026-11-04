@@ -59,4 +59,4 @@ PowerUP sees a priority tier per home, not a medical record. It can propose, slo
 
 ## License
 
-MIT, see LICENSE.
+All rights reserved. Published for reading and evaluation; see the LICENSE file at the repository root.
