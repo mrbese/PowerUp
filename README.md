@@ -132,4 +132,4 @@ PowerUP could be used to throttle or lock owners out of their own batteries, or 
 
 ## License
 
-MIT, see `LICENSE`.
+All rights reserved. Published for reading and evaluation; see `LICENSE`.
